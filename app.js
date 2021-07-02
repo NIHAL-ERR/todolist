@@ -44,7 +44,6 @@ function showtask() {
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-danger " onclick=deleteCard(${index})>Delete note</button>
                 </div>
-                <small class="text-muted">9 mins</small>
               </div>
             </div>
           </div>
